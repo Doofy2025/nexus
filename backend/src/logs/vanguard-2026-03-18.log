@@ -1,0 +1,30 @@
+{"level":"info","message":"Vanguard OS API  |  COMPLETE  |  port 3001","timestamp":"2026-03-18T16:45:17.540Z"}
+{"level":"info","message":"  ENV  : development","timestamp":"2026-03-18T16:45:17.542Z"}
+{"level":"info","message":"  CORS : http://localhost:5173","timestamp":"2026-03-18T16:45:17.543Z"}
+{"level":"info","message":"WebSocket server attached to /ws","timestamp":"2026-03-18T16:45:17.820Z"}
+{"level":"info","message":"WebSocket server ready — 0 clients","timestamp":"2026-03-18T16:45:17.820Z"}
+{"level":"info","message":"  WS   : /ws ready","timestamp":"2026-03-18T16:45:17.822Z"}
+{"level":"info","message":"retention job scheduled (metrics:90d snaps:90d logs:30d audit:365d)","timestamp":"2026-03-18T16:45:18.097Z"}
+{"level":"info","message":"  CRON : metrics retention job scheduled","timestamp":"2026-03-18T16:45:18.097Z"}
+{"level":"info","message":"SIGINT -- shutting down","timestamp":"2026-03-18T17:12:33.451Z"}
+{"level":"info","message":"Vanguard OS API  |  COMPLETE  |  port 3001","timestamp":"2026-03-18T17:12:36.192Z"}
+{"level":"info","message":"  ENV  : development","timestamp":"2026-03-18T17:12:36.195Z"}
+{"level":"info","message":"  CORS : http://localhost:5173","timestamp":"2026-03-18T17:12:36.195Z"}
+{"level":"info","message":"WebSocket server attached to /ws","timestamp":"2026-03-18T17:12:36.210Z"}
+{"level":"info","message":"WebSocket server ready — 0 clients","timestamp":"2026-03-18T17:12:36.210Z"}
+{"level":"info","message":"  WS   : /ws ready","timestamp":"2026-03-18T17:12:36.210Z"}
+{"level":"info","message":"retention job scheduled (metrics:90d snaps:90d logs:30d audit:365d)","timestamp":"2026-03-18T17:12:36.230Z"}
+{"level":"info","message":"  CRON : metrics retention job scheduled","timestamp":"2026-03-18T17:12:36.231Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/tenant","timestamp":"2026-03-18T17:46:54.246Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/tenant","timestamp":"2026-03-18T17:46:55.312Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/tenant","timestamp":"2026-03-18T17:48:14.753Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/tenant","timestamp":"2026-03-18T17:48:21.587Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:48:44.792Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:48:44.795Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:48:44.796Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:48:44.798Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/alert","timestamp":"2026-03-18T17:49:40.732Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:49:53.781Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:49:53.784Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:49:53.785Z"}
+{"ip":"::1","level":"info","message":"-> GET /api/agentDeployment/bundle","timestamp":"2026-03-18T17:49:53.786Z"}
